@@ -38,3 +38,5 @@ The Wavelet Transform uses a series of functions called wavelets, each with a di
 <br></br>
 So a sine wave is from -inf to +inf while a wavelet exist for a particular duration which has a zero mean
 There are many types of Wavelets.
+
+* Reference: https://medium.com/swlh/extracting-features-patterns-in-a-price-data-using-wavelet-transform-part-1-72b55bcde2de
